@@ -26,6 +26,7 @@ int main() {
         }
     }
 
+    
     // Input elements for array B
     printf("Enter elements of array B:\n");
     for (i = 0; i < r2; i++) {
