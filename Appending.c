@@ -3,7 +3,6 @@
 int main() {
     FILE *fptr;
     fptr = fopen("output.txt", "a"); // Open file for appending
-
     if (fptr == NULL) {
         printf("Error opening file!\n");
         return 1;
